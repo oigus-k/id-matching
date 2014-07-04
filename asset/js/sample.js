@@ -1,7 +1,3 @@
-/**
- * Created by k_sugio on 7/2/14.
- */
-
 var Products = typeof Products == "undefined" ? {} : Products;
 
 Products.MatchID = function(){
