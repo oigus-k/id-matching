@@ -42,6 +42,5 @@ Products.MatchID = function(){
         }
         console.log("end");
     });
-
 };
 
